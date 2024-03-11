@@ -11,8 +11,8 @@ This repository demonstrates the integration of Drools with a Spring Boot applic
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/drools-spring-boot.git
-cd drools-spring-boot
+git clone https://github.com/DohaMaghni/DroolsTest.git
+cd testDrools
 ```
 
 ### Build and Run
