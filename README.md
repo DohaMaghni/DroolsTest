@@ -29,6 +29,15 @@ Example using cURL:
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{"name":"test", "cardType":"DBS", "price":16000}' http://localhost:8080/order
 ```
+Example using postman:
+Post request to : http://localhost:8080/order
+```json
+{
+"name":"test",
+"cardType":"DBS",
+"price":16000
+}
+```
 The application will process the order, apply Drools rules, and print the discount information in the console.
 
 ### Drools Rules
